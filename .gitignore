@@ -1,0 +1,13 @@
+# Bỏ qua cache của Python
+__pycache__/
+*.pyc
+
+# Bỏ qua thư mục chứa model AI nặng
+insightface_model/
+
+# Bỏ qua dữ liệu database và hình ảnh cá nhân
+*.csv
+*.xlsx
+images/
+backup/
+gianlan/
